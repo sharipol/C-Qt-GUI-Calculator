@@ -4,12 +4,12 @@ Unit tested with QTest.
 
 
 FUNCTIONS:
-10-Key Input
-Addition, Subtraction, Multiplication, Division
-Positive/Negative Sign
-Decimals (non duplicating decimal point)
-Clear current input
-Clear all input
-Square root, Squaring
-Percentage
-Reciprocal
+-	10-Key Input
+-	Addition, Subtraction, Multiplication, Division
+-	Positive/Negative Sign
+-	Decimals (non duplicating decimal point)
+-	Clear current input
+-	Clear all input
+-	Square root, Squaring
+-	Percentage
+-	Reciprocal
