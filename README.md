@@ -4,7 +4,7 @@ Calculator made using Qt GUI for the front end, and C++ for the back end functio
 
 Calculator contains 2 parts in their own folders called: "CalcGUI", and "CalcEngine".
 
-	Unpack each folder from its .zip file.
+	Unpack folders from .zip file.
 
 	To run the calculator; both folders must in the same direcory, open "CalcGUI.pro", then build and run.
 
